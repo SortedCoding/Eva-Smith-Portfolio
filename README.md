@@ -8,7 +8,21 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/lAaSnZE2lj8))
 # Screenshot
 Here we have project screenshot :
 
-portfolio preview
-![screenshot](Eva.png)
+# portfolio preview
+
+# Home Page
+![screenshot](Home.png)
+
+# About Page
+![screenshot](about.png)
+
+# Education Page
+![screenshot](Education.png)
+
+# Services Page
+![screenshot](Services.png)
+
+# Contact Me  Page
+![screenshot](ContactMe.png)
 
 
