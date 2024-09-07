@@ -5,8 +5,6 @@ The personal portfolio website showcases my skills, projects, and experiences as
 # Tutorial is available on youtube channel 
 click on the link to see :- ([Open in Youtube](https://youtu.be/lAaSnZE2lj8))
 
-# Screenshot
-Here we have project screenshot :
 
 # portfolio preview
 
